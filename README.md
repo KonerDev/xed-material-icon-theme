@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/logo.png" alt="Material Icon Theme logo" width="120">
-  <img style="margin-left: -30px" src="https://raw.githubusercontent.com/Xed-Editor/Xed-Editor/refs/heads/main/fastlane/metadata/android/en-US/images/icon.png" alt="Xed-Editor logo" width="50"/>
+  <img src="./logo.png" alt="Material Icon Theme logo" width="120">
 </p>
 
 <h1 align="center">Material Icon Theme</h1>
