@@ -8,6 +8,7 @@
         "displayName": "KonerDev",
         "github": "KonerDev"
     },
+    "repository": "https://github.com/KonerDev/xed-material-icon-theme",
     "type": "icon_pack",
     "minAppVersion": 87,
     "applyTint": false,
